@@ -21,7 +21,13 @@ Tech Stack Used:
  axios,
  React.js,
  Node.js,
- Routers,
+ Routers
+
+ SCREENSHOTS:
+ ![Uploading Screenshot (25).png…]()
+ ![Uploading Screenshot (26).png…]()
+
+
 
 
 ## Requirements
