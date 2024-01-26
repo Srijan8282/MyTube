@@ -24,9 +24,11 @@ Tech Stack Used:
  Routers
 
  SCREENSHOTS:
- ![Uploading Screenshot (25).png…]()
- ![Uploading Screenshot (26).png…]()
 
+
+![Screenshot (25)](https://github.com/Srijan8282/MyTube/assets/115431775/e9d210d9-99da-4088-994c-7463d4d1ee99)
+
+![Screenshot (26)](https://github.com/Srijan8282/MyTube/assets/115431775/17bbcb17-c6a3-4b61-b588-1748188cdee9)
 
 
 
